@@ -7,6 +7,10 @@
   },
   "dependencies": {
     "express": "3.4.8",
-    "ejs": "*"
+    "ejs": "*",
+    "cradle": "~0.6.7",
+    "connect": "~2.14.4",
+    "util": "~0.10.3",
+    "connect-couchdb": "~0.4.2"
   }
 }
